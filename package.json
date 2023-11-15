@@ -46,7 +46,6 @@
     "yargs-parser": ">=13.1.2"
   },
   "dependencies": {
-    "nanoid": "^3.1.23",
     "yup": "^1.2.0"
   },
   "files": [
